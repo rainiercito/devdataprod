@@ -18,4 +18,4 @@ runGitHub( "devdataprod", "rainiercito")
 
 Also, there is a presentation that describes how it works. The presentation can be watched at: 
 
-http://rpubs.com/ibonaranburu/21292
+http://rpubs.com/rainiero/51124
