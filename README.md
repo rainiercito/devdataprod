@@ -12,6 +12,10 @@ One can use the application clicking the next link:
 
 The application is accesible in: https://ibon.shinyapps.io/BMI_app/
 
+or running this command in Rstudio:
+
+runGitHub( "devdataprod", "rainiercito") 
+
 Also, there is a presentation that describes how it works. The presentation can be watched at: 
 
 http://rpubs.com/ibonaranburu/21292
